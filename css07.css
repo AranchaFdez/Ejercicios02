@@ -1,0 +1,39 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+	width:30px;
+	height :30px;
+}
+
+#main {
+    border: 1px solid black;
+    margin-left: 40%;
+    width: 300px;
+}
+
+#azul {
+    background: blue;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#blanco {
+    background-color: white;
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: gray;
+}
